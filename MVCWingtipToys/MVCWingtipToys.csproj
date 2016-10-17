@@ -173,6 +173,26 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\boatbig.png" />
+    <Content Include="Content\Images\boatpaper.png" />
+    <Content Include="Content\Images\boatsail.png" />
+    <Content Include="Content\Images\busdouble.png" />
+    <Content Include="Content\Images\busgreen.png" />
+    <Content Include="Content\Images\busred.png" />
+    <Content Include="Content\Images\carconvert.png" />
+    <Content Include="Content\Images\carearly.png" />
+    <Content Include="Content\Images\carfast.png" />
+    <Content Include="Content\Images\carfaster.png" />
+    <Content Include="Content\Images\carracer.png" />
+    <Content Include="Content\Images\logo.jpg" />
+    <Content Include="Content\Images\planeace.png" />
+    <Content Include="Content\Images\planeglider.png" />
+    <Content Include="Content\Images\planepaper.png" />
+    <Content Include="Content\Images\planeprop.png" />
+    <Content Include="Content\Images\rocket.png" />
+    <Content Include="Content\Images\truckbig.png" />
+    <Content Include="Content\Images\truckearly.png" />
+    <Content Include="Content\Images\truckfire.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
